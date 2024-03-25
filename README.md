@@ -9,5 +9,4 @@ In the project directory, you can run:
 ### `npm start`
 
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-![Uploading image_2024-03-25_18-00-44.png…]()
+![image_2024-03-25_18-00-44](https://github.com/Dasti-dev/Netflix-frontend-clone/assets/117101772/49085800-3d85-468c-912c-a04370c6f3cf)
